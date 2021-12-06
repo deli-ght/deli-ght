@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+![Metrics](https://metrics.lecoq.io/deli-ght?template=classic&base.community=0&base.repositories=0&followup=1&introduction=1&lines=1&introduction.title=true&followup.sections=repositories&config.timezone=Asia%2FSeoul)
+
+
 **deli-ght/deli-ght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
