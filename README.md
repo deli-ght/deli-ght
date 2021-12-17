@@ -23,6 +23,4 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=deli-ght)](https://velog.io/@deli-ght) 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=deli-ght&color=dark)](https://github.com/deli-ght/velog-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=deli-ght&tag=react&color=dark)](https://github.com/deli-ght/velog-readme-stats)
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=deli-ght)](https://velog.io/@deli-ght)
