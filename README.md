@@ -1,6 +1,10 @@
 
 <div align="center">
     <h1> Hello this is Minju's repository <img width=30px src = "https://user-images.githubusercontent.com/77158595/144869536-29c92342-a4da-4f7d-b722-2e136af91e41.gif"/></h1>
+    <a href="https://github.com/deli-ght">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deli-ght&show_icons=true&theme=graywhite &include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deli-ght&layout=compact&langs_count=8&theme=graywhite"/>
+    </a>
 </div>
 
 <div align="center">
