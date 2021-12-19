@@ -3,7 +3,6 @@
     <h1> Hello this is Minju's repository <img width=30px src = "https://user-images.githubusercontent.com/77158595/144869536-29c92342-a4da-4f7d-b722-2e136af91e41.gif"/></h1>
     <a href="https://github.com/deli-ght">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deli-ght&show_icons=true&theme=graywhite &include_all_commits=true&count_private=true"/>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deli-ght&layout=compact&langs_count=8&theme=graywhite"/>
     </a>
 </div>
 
@@ -16,6 +15,9 @@
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <a href="https://github.com/deli-ght">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deli-ght&layout=compact&langs_count=8&theme=graywhite"/>
+    </a>
 </div>
 
 <h1>I'm currently studying</h1> 
