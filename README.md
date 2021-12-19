@@ -16,13 +16,12 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
     <a href="https://github.com/deli-ght">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deli-ght&layout=compact&langs_count=8&theme=graywhite"/>
+    <img style.display="block" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deli-ght&layout=compact&langs_count=8&theme=graywhite"/>
     </a>
-</div>
-
-<h1>I'm currently studying</h1> 
+    <h1>I'm currently studying</h1> 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=deli-ght&color=dark)](https://velog.io/@deli-ght)
+</div>
 
 
  <pre>
