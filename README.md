@@ -1,9 +1,14 @@
 
 <div align="center">
-    <h1> Hello this is Minju's repository <img width=30px src = "https://user-images.githubusercontent.com/77158595/144869536-29c92342-a4da-4f7d-b722-2e136af91e41.gif"/></h1>
+    <h1> Hello this is Minju's repository <img width=30px src = "https://user-images.githubusercontent.com/77158595/144869536-29c92342-a4da-4f7d-b722-2e136af91e41.gif"/>
+        <a href="https://hits.seeyoufarm.com">
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeli-ght&count_bg=%23ED6DA3&title_bg=%2386757E&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
+        </a>
+    </h1>
     <a href="https://github.com/deli-ght">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deli-ght&show_icons=true&theme=graywhite &include_all_commits=true&count_private=true"/>
     </a>
+    
 </div>
 
 <div align="center">
@@ -16,7 +21,7 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
     <a href="https://github.com/deli-ght">
-    <img style.display="block" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deli-ght&layout=compact&langs_count=8&theme=graywhite"/>
+    <img width="100%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deli-ght&layout=compact&langs_count=8&theme=graywhite"/>
     </a>
     <h1>I'm currently studying</h1> 
 
