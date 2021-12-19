@@ -17,10 +17,19 @@
     <img src="https://img.shields.io/badge/-Next.js-ff96b4"/>
 </div>
 
-<div align="center">
-    <h1>Check my vlogs</h1> 
-</div>
+<h1>I'm currently studing</h1> 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=deli-ght)](https://velog.io/@deli-ght) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=deli-ght&color=dark)](https://velog.io/@deli-ght)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=deli-ght)](https://velog.io/@deli-ght)
+
+ <pre>
+   _     _   
+  (c).-.(c)  
+   / ._. \        
+ __\( Y )/__ 💻   
+(_.-/'-'\-._)     
+   ||   ||   
+ _.' `-' '._         thanks to visit my github!
+(.-./`-'\.-.)
+ `-'     `-' 
+ </pre>
