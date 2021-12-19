@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 </div>
 
-<h1>I'm currently studing</h1> 
+<h1>I'm currently studying</h1> 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=deli-ght&color=dark)](https://velog.io/@deli-ght)
 
