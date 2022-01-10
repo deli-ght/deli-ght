@@ -36,7 +36,7 @@
  __\( Y )/__ 💻   
 (_.-/'-'\-._)     
    ||   ||   
- _.' `-' '._         🧸 - thanks to visit my github!
+ _.' `-' '._          🧸 - thanks to visit my github!
 (.-./`-'\.-.)
  `-'     `-' 
  </pre>
