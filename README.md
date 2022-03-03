@@ -24,8 +24,6 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white"/>
     <a href="https://github.com/deli-ght">
-    <img width="100%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deli-ght&layout=compact&langs_count=8&theme=graywhite"/>
-    </a>
     <h1>I'm currently studying</h1> 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=deli-ght&color=dark)](https://velog.io/@deli-ght)
