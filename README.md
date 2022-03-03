@@ -30,16 +30,3 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=deli-ght&color=dark)](https://velog.io/@deli-ght)
 </div>
-
-
- <pre>
-   _     _   
-  (c).-.(c)  
-   / ._. \        
- __\( Y )/__ 💻   
-(_.-/'-'\-._)     
-   ||   ||   
- _.' `-' '._          🧸 - thanks to visit my github!
-(.-./`-'\.-.)
- `-'     `-' 
- </pre>
