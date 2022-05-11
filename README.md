@@ -27,4 +27,5 @@
     <h1>I'm currently studying</h1> 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=deli-ght&color=dark)](https://velog.io/@deli-ght)
+      <br/> 📧 : <a mailto="minjju0660@gmail.com">minjju0660@gmail.com</a>
 </div>
