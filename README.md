@@ -1,6 +1,6 @@
 
 <div align="center">
-    <h1> Hello this is Minju's repository <img width=30px src = "https://user-images.githubusercontent.com/77158595/144869536-29c92342-a4da-4f7d-b722-2e136af91e41.gif"/>
+    <h1> Hello this is Minju's repository 
         <a href="https://hits.seeyoufarm.com">
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeli-ght&count_bg=%23ED6DA3&title_bg=%2386757E&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
         </a>
