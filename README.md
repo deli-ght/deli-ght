@@ -5,14 +5,11 @@
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeli-ght&count_bg=%23ED6DA3&title_bg=%2386757E&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
         </a>
     </h1>
-    <a href="https://github.com/deli-ght">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deli-ght&show_icons=true&theme=graywhite &include_all_commits=true&count_private=true"/>
-    </a>
     
 </div>
 
 <div align="center">
-    <h1>What can I use</h1>
+    <h2>What can I use</h2>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
