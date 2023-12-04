@@ -8,8 +8,8 @@
     
 </div>
 
-<div align="center">
-    <h2>What can I use</h2>
+<h3>What can I use</h2>
+<div >
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -18,8 +18,9 @@
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/><br/>
     <a href="https://github.com/deli-ght">
-    <h1>I'm currently studying</h1> 
+</div>
+
+<h3>I'm currently studying</h1> 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=deli-ght)](https://github.com/deli-ght/velog-readme-stats)
       <br/> 📧 : <a mailto="minjju0660@gmail.com">minjju0660@gmail.com</a>
-</div>
